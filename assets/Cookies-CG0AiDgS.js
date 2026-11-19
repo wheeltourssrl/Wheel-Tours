@@ -1,0 +1,1 @@
+import{t as e}from"./LegalPage-DvSkkUMM.js";import{g as t}from"./Seo-DZ6Iq_A0.js";import{t as n}from"./legal-vXza468n.js";import{p as r}from"./three-BaViJ-NS.js";var i=r();function a(){let{lang:r}=t(),a=n[r];return(0,i.jsx)(e,{title:a.title,updated:a.updated,blocks:a.blocks})}export{a as default};
